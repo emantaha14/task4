@@ -27,7 +27,7 @@ public class Main {
                     addIdList.add(obj1.id);
                 } else {
                     System.out.println(newId + " " + newName);
-                    System.out.println("the name is added ");
+                    System.out.println("the name is added");
                 }
 
             } else if (chooseNumber == 2) {
